@@ -1,11 +1,11 @@
 body{
-   background-color:#E8E8E8;
+   background-color:#E7E7E8;
 }
 .conteneur{
-    width:100%;/*exprime la largeur en %*/
-    max-width:960px;/*exprime la largeur max en pixel*/
-    padding:10px;/*marge intérieur*/
-    margin:15px;/*marge extérieur*/
+    width:100%;
+    max-width:960px;
+    padding:10px;
+    margin:15px;
 }
 
 .colonne{
@@ -40,7 +40,7 @@ header{
 
 main{
      background-image:url("../images/main.png");
-    background-attachment:fixed;/*image de fond fixe*/
+    background-attachment:fixed;
     
 }
 
@@ -58,9 +58,9 @@ iframe{
 }
 
 footer p{
-    text-shadow: 2px 2px 4px black;
+    
     font-style:oblique;
-    color:teal;
+    color:black;
     text-align:center;
     vertical-align:bottom;
     display:inline-block;
@@ -69,35 +69,33 @@ footer p{
 }
 p{
     text-align:justify;
-    font-family:"Comic Sans MS",Arial,Verdana;
+    font-family:Arial,Verdana;
 }
 
 h1{
-   font-family:Arial;
+   font-family:Times;
    font-style:oblique;
-   text-shadow: 2px 2px 4px black; 
+
 }
 
 h2{
-    text-shadow: 2px 2px 4px black;
-    font-family:Arial;
+    
+    font-family:Times;
    font-style:italic;
 }
 
 h3{
-    box-shadow: 6px 6px 0px black;
-    font-family:Verdana;
+    
+    font-family:Times;
     text-align:center;
     font-style:oblique;
-    text-shadow: 2px 2px 4px black; 
+  
 }
 ol li{
     text-align:justify;
-    font-family:"Comic Sans MS",Arial,Verdana;
+    font-family:Arial,Verdana;
 }
 ul li{
     text-align:justify;
-    font-family:"Comic Sans MS",Arial,Verdana;
+    font-family:Arial,Verdana;
 }
-Status API Training Shop Blog About Pricing
-© 2015 GitHub, Inc. Terms Privacy Security Contact Help
