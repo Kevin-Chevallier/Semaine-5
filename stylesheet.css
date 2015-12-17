@@ -28,20 +28,20 @@ body{
 }
 
 header{
-    background-image:url("../images/header.png");
+    background-image:url("header.png");
     background-attachment:fixed;
     width:100%;
     padding:10px;
 }
 
 main{
-     background-image:url("../images/main.png");
+     background-image:url("main.png");
     background-attachment:fixed;
     
 }
 
 footer{
- background-image:url("../images/footer.png");   
+ background-image:url(footer.png");   
  background-attachment:fixed;
  width:100%;
  padding:10px;
